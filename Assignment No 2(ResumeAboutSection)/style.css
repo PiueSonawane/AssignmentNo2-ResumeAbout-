@@ -1,0 +1,38 @@
+#name{
+    color: rgb(30, 171, 30);
+    font-size: 20px;
+    font-weight: bold;
+}
+
+.about-text{
+    font-size: 20px;
+    font-family:'Times New Roman', Times, serif;
+}
+
+.span1{
+    color: blue;
+}
+
+.interest{
+    color: red;
+    font-size: 20px;
+}
+
+.skills{
+    color: brown;
+    font-size: 20px;
+}
+
+.education{
+    color: blue;
+    font-size: 20px;
+}
+
+.contact{
+    color: purple;
+    font-size: 20px;
+}
+
+.contact-form{
+    font-size: 20px;
+}
